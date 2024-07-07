@@ -1,0 +1,16 @@
+ver(0.5.0) small optimisations, new dialogue, ready for map update;
+ver(0.5.3) added change log, removed bloat from directory (monika.chr), make sure the file isnt there anymore, just in case;
+ver(0.6.0) added map with locations, removed bloat from directory (monika.chr), found remains in the code;
+ver(0.6.1) added custom function if wrong number inputted at the map;
+ver(0.6.2) removed custom function if wrong number inputted at the map;
+ver(0.6.3) added weapons, removed monika.chr again;
+ver(0.7.0) added new ascii, changed dialogues, ready for fight update;
+ver(1.0.0) fight update!;
+ver(1.1.0) ascii art for winning, stats for winning;
+ver(1.1.5) new weapons;
+ver(1.2.0) options menu, new options;
+ver(1.3.0) big revamp of some images and new animations, fixed untrue fullscreen bug,new weapons;
+ver(1.3.5) Jake the Dog fight update, changed damage dealt by enemies when partially dodging,completely removed monika.chr from game files;
+ver(1.3.6) changed damage dealt by Ice King from 10-25 to 15-25, new health display,win and death animations;
+ver(1.4.0) main menu selection and option menu selection update
+ver(1.4.1) fixed some dialogue bugs and double enter requests

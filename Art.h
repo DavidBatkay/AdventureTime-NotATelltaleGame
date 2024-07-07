@@ -1,0 +1,10 @@
+#pragma once
+void copyscreen();
+void credits();
+void menu1();
+void marcy();
+void menu2();
+void butler();
+void kidnap();
+void jakethedog();
+void jakemonster();
